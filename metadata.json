@@ -1,0 +1,6 @@
+{
+  "name": "KelpAI — Career Clarity Companion",
+  "description": "An AI-guided calm companion for student career stress, helping separate facts from anxious interpretations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
